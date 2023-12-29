@@ -1,7 +1,7 @@
 # Olá sou Erivelter um DevFullstack
 
 ## Em contrução
-🎓 Estudo pela Infinity School
+🎓 Estudo pela 
 🌱 Atualmente estou desenvolvendo aplicações python e web e o uso do mySQL
 🗣️ Português Brasileiro(Nativo / Native)        Inglês(Básico / Basic)
 
